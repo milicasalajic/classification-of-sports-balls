@@ -59,12 +59,6 @@ pip install numpy
 pip install scikit-learn
 ```
 
-### Kreiranje potrebnih direktorijuma
-
-```bash
-mkdir models plots samples
-```
-
 ## ▶️ Pokretanje
 
 ### 1. Preprocessing podataka
@@ -192,15 +186,6 @@ Modeli se treniraju sa:
 - **Metrics**: Accuracy
 - **Early Stopping**: Patience = 3, monitor = val_loss
 - **Epochs**: 10-15 (zavisi od modela)
-
-## 🤝 Doprinos
-
-Za doprinos projektu:
-1. Fork-ujte repository
-2. Kreirajte feature branch
-3. Commit-ujte promene
-4. Push-ujte na branch
-5. Otvorite Pull Request
 
 ## 📝 Licenca
 
