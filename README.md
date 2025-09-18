@@ -1,4 +1,4 @@
-# Klasifikacija Sportskih Loptica
+# Klasifikacija Sportskih Lopti
 
 Projekat za klasifikaciju sportskih loptiča korišćenjem različitih deep learning modela. Implementirani su Simple CNN, Deep CNN, RNN i Transfer Learning (MobileNetV2) modeli za klasifikaciju 7 različitih tipova sportskih loptiča.
 
